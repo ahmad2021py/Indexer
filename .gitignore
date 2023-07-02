@@ -1,0 +1,12 @@
+BPersianCalender.dll
+EntityFramework.dll
+EntityFramework.SqlServer.dll
+EntityFramework.SqlServer.xml
+EntityFramework.xml
+Indexer.exe
+Indexer.exe.config
+Indexer.pdb
+Debug/
+Indexer.Test/bin/
+obj/
+.vs/
